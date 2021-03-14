@@ -27,6 +27,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -38,7 +39,7 @@
       <updated>1615513896066</updated>
       <workItem from="1615513897373" duration="1434000" />
       <workItem from="1615538014215" duration="15000" />
-      <workItem from="1615691667680" duration="307000" />
+      <workItem from="1615691667680" duration="630000" />
     </task>
     <task id="LOCAL-00001" summary="Original Commit">
       <created>1615514038995</created>
@@ -47,7 +48,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615514038995</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Original Commit">
+      <created>1615692262954</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615692262954</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Original Commit">
+      <created>1615692287671</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615692287671</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
