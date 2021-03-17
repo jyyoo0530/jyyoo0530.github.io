@@ -12,7 +12,7 @@ title:  "Kafka Cluster mission"
 
 #####VM Resources
  - 5 Virtual Machines
- - OS: Linux Ubuntu 20.04 Server
+ - OS: Linux CentOS-7 x86_64-Minimal-2009
  - CPU: 2 cores
  - RAM: 3072 Mi
  - HDD: 30Gi

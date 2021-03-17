@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="717747e8-9142-498e-86e7-be9ef7a70a90" name="Default Changelist" comment="Original Commit">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-03-17-00_KubernetesClusterTest.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-03-17-01_K8s_DevOpsEnv.md" afterDir="false" />
+    <list default="true" id="717747e8-9142-498e-86e7-be9ef7a70a90" name="Default Changelist" comment="Kafka Cluster Mission 1">
+      <change afterPath="$PROJECT_DIR$/_posts/2021-03-17-02_K8s_SoftwareEnvSetting.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-03-17-03_K8s_VM_Replica.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-03-17-04_K8s_Initiate_Cluster.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-17-00_KubernetesClusterTest.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-17-00_KubernetesClusterTest.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-17-01_K8s_DevOpsEnv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-17-01_K8s_DevOpsEnv.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +72,7 @@
       <workItem from="1615538014215" duration="15000" />
       <workItem from="1615691667680" duration="924000" />
       <workItem from="1615692671773" duration="2286000" />
-      <workItem from="1615931962343" duration="2790000" />
+      <workItem from="1615931962343" duration="8387000" />
     </task>
     <task id="LOCAL-00001" summary="Original Commit">
       <created>1615514038995</created>
@@ -113,7 +116,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615931975909</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Kafka Cluster Mission 1">
+      <created>1615934889557</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615934889557</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Kafka Cluster Mission 1">
+      <created>1615934898866</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615934898866</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +150,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Original Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Original Commit" />
+    <MESSAGE value="Kafka Cluster Mission 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kafka Cluster Mission 1" />
   </component>
 </project>
