@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="717747e8-9142-498e-86e7-be9ef7a70a90" name="Default Changelist" comment="Kafka Cluster Mission 1">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-03-17-02_K8s_SoftwareEnvSetting.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-03-17-03_K8s_VM_Replica.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-03-17-04_K8s_Initiate_Cluster.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-04-12-00_NLP_sentence_embeddings_using_korean_corpora.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-03-17-00_KubernetesClusterTest.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-17-00_KubernetesClusterTest.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-03-17-01_K8s_DevOpsEnv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-17-01_K8s_DevOpsEnv.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
