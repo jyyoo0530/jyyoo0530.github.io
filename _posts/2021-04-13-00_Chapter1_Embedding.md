@@ -38,3 +38,22 @@ Before 2017, embedding method was usually word level model, as
 The cons of the word-level embedding is that it cannot distinguish `homonym`.<br>
 After 2018, ELMo(Embeddings from Language Models) is announced, sentence level embedding is highlighted.
 `ELMo(Embeddings from Language Models), BERT(Bidirectional Encoder Representations from Transformer), GPT(Generative Pre-Training)`are the cases. 
+
+###### Rule base -> end-to-end -> pre-train/fine-tuning base
+Until 1990, people selected feature by themselves from most of the NLP processing model. Therefore, it was required to have Linguistics knowledge to perform NLP processing.<br>
+From mid 2000, the deep-learning model has been involved, as the model doesn't required to input the rule in every cases. It was enough to get model by giving "input" and "output" to the deep-learning model.(End-to-End Model).<br>
+Then, in 2018, after ELMo proposed, NLP model is developing to the `pretrain` and `fine tuning` steps.
+
+###### Types of Embedding and performances
+1) Factorization (GloVe, Swivel)
+The method to split original corpus matrix into two or more smaller matrix.<br>
+   
+2) Prediction (Word2Vec, FastText, BERT, ELMo, GPT)
+The Neural Network method. It denote the method which predicts the specific word around the certain word, or predict the word from the given preceeding words, or guess the word from the random empty word space from the sentence.<br>
+   
+3) Topic-based Approach (LDA(Latent Dirichlet Allocation))
+The method that uses `inference` and `latent topic` from the given document.<br>
+   
+4) Assessment of embedding performance
+In case of English Embedding, 형태소 분석, 문장 성분 분석, 의존관계분석, 의미역분석, 상호참조해결등등.However, in case of Korean, it is hard to measure the performance due to lack of open-data.<br>
+   
