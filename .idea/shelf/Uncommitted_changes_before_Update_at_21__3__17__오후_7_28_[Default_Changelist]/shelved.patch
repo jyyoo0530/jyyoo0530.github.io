@@ -1,0 +1,70 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"717747e8-9142-498e-86e7-be9ef7a70a90\" name=\"Default Changelist\" comment=\"Original Commit\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1pdXMtyh6rkepAhKOejckdWHrdk\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/../strimzi-kafka-operator\" />\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\n    <property name=\"node.js.path.for.package.eslint\" value=\"project\" />\n    <property name=\"node.js.path.for.package.tslint\" value=\"project\" />\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"717747e8-9142-498e-86e7-be9ef7a70a90\" name=\"Default Changelist\" comment=\"\" />\n      <created>1615513896066</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1615513896066</updated>\n      <workItem from=\"1615513897373\" duration=\"1434000\" />\n      <workItem from=\"1615538014215\" duration=\"15000\" />\n      <workItem from=\"1615691667680\" duration=\"924000\" />\n      <workItem from=\"1615692671773\" duration=\"2286000\" />\n      <workItem from=\"1615765000397\" duration=\"1262000\" />\n      <workItem from=\"1615784232922\" duration=\"1827000\" />\n      <workItem from=\"1615853584133\" duration=\"598000\" />\n      <workItem from=\"1615904087710\" duration=\"1585000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Original Commit\">\n      <created>1615514038995</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1615514038995</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Original Commit\">\n      <created>1615692262954</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1615692262954</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Original Commit\">\n      <created>1615692287671</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1615692287671</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"Original Commit\">\n      <created>1615692396866</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1615692396866</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"Original Commit\">\n      <created>1615692511433</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1615692511433</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"Original Commit\">\n      <created>1615765022303</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1615765022303</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"7\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Original Commit\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Original Commit\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 6213c8954ad4a69451952e787403b4521e2d92e2)
++++ b/.idea/workspace.xml	(date 1615963232422)
+@@ -2,6 +2,7 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="717747e8-9142-498e-86e7-be9ef7a70a90" name="Default Changelist" comment="Original Commit">
++      <change afterPath="$PROJECT_DIR$/_posts/2021-03-01-00-RegExp.md" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -22,7 +23,7 @@
+     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+     <property name="aspect.path.notification.shown" value="true" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../strimzi-kafka-operator" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+     <property name="node.js.detected.package.eslint" value="true" />
+     <property name="node.js.detected.package.tslint" value="true" />
+     <property name="node.js.path.for.package.eslint" value="project" />
+@@ -46,7 +47,10 @@
+       <workItem from="1615765000397" duration="1262000" />
+       <workItem from="1615784232922" duration="1827000" />
+       <workItem from="1615853584133" duration="598000" />
+-      <workItem from="1615904087710" duration="1585000" />
++      <workItem from="1615904087710" duration="1594000" />
++      <workItem from="1615946010214" duration="683000" />
++      <workItem from="1615959692719" duration="840000" />
++      <workItem from="1615961323298" duration="599000" />
+     </task>
+     <task id="LOCAL-00001" summary="Original Commit">
+       <created>1615514038995</created>
+@@ -90,7 +94,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1615765022303</updated>
+     </task>
+-    <option name="localTasksCounter" value="7" />
++    <task id="LOCAL-00007" summary="Original Commit">
++      <created>1615909493797</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1615909493797</updated>
++    </task>
++    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+Index: _posts/2021-03-01-00-RegExp.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/_posts/2021-03-01-00-RegExp.md b/_posts/2021-03-01-00-RegExp.md
+new file mode 100644
+--- /dev/null	(date 1615946092052)
++++ b/_posts/2021-03-01-00-RegExp.md	(date 1615946092052)
+@@ -0,0 +1,5 @@
++---
++layout: post
++title:  "RegExp"
++---
++

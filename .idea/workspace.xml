@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="717747e8-9142-498e-86e7-be9ef7a70a90" name="Default Changelist" comment="Embedding - prologue">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-04-14-00_Chapter1_preparing_dev_environment.md" afterDir="false" />
+    <list default="true" id="717747e8-9142-498e-86e7-be9ef7a70a90" name="Default Changelist" comment="Original Commit">
+      <change afterPath="$PROJECT_DIR$/_posts/2021-03-01-00-RegExp.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-04-13-00_Chapter1_Embedding.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-04-13-00_Chapter1_Embedding.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../marketing" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -43,19 +42,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Jeremy\dev\intellij\jyyoo0530.github.io\_posts" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -70,6 +56,11 @@
       <workItem from="1615691667680" duration="924000" />
       <workItem from="1615692671773" duration="2286000" />
       <workItem from="1615931962343" duration="8387000" />
+      <workItem from="1618792042190" duration="601000" />
+      <workItem from="1618882082834" duration="1289000" />
+      <workItem from="1620861669776" duration="1464000" />
+      <workItem from="1620867577974" duration="8000" />
+      <workItem from="1620867597962" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="Original Commit">
       <created>1615514038995</created>
@@ -127,21 +118,7 @@
       <option name="project" value="LOCAL" />
       <updated>1615934898866</updated>
     </task>
-    <task id="LOCAL-00009" summary="Kafka Cluster Mission 1">
-      <created>1618218867288</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1618218867288</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Embedding - pro">
-      <created>1618286838868</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1618286838868</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +139,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Original Commit" />
     <MESSAGE value="Kafka Cluster Mission 1" />
-    <MESSAGE value="Embedding - prologue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Embedding - prologue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kafka Cluster Mission 1" />
   </component>
 </project>
