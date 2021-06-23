@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="717747e8-9142-498e-86e7-be9ef7a70a90" name="Default Changelist" comment="Original Commit">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-03-01-00-RegExp.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/transformer/2021-06-22-01_Positional_Encoding.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/transformer/2021-06-22-99_Misc.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +16,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -29,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../marketing" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,6 +51,24 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Jeremy\dev\intellij\jyyoo0530.github.io\_posts" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/transformer" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -61,6 +88,8 @@
       <workItem from="1620861669776" duration="1464000" />
       <workItem from="1620867577974" duration="8000" />
       <workItem from="1620867597962" duration="14000" />
+      <workItem from="1624324752573" duration="8559000" />
+      <workItem from="1624414556555" duration="3620000" />
     </task>
     <task id="LOCAL-00001" summary="Original Commit">
       <created>1615514038995</created>
@@ -118,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615934898866</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Original Commit">
+      <created>1624324765441</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1624324765441</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,8 +173,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Original Commit" />
     <MESSAGE value="Kafka Cluster Mission 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kafka Cluster Mission 1" />
+    <MESSAGE value="Original Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Original Commit" />
   </component>
 </project>
