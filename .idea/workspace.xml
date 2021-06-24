@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="717747e8-9142-498e-86e7-be9ef7a70a90" name="Default Changelist" comment="Original Commit">
-      <change afterPath="$PROJECT_DIR$/_posts/transformer/2021-06-22-01_Positional_Encoding.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/transformer/2021-06-22-99_Misc.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/transformer/2021-06-22-99_Misc.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/transformer/2021-06-22-99_Misc.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,15 +55,13 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,7 +86,8 @@
       <workItem from="1620867577974" duration="8000" />
       <workItem from="1620867597962" duration="14000" />
       <workItem from="1624324752573" duration="8559000" />
-      <workItem from="1624414556555" duration="3620000" />
+      <workItem from="1624414556555" duration="4021000" />
+      <workItem from="1624494455751" duration="1601000" />
     </task>
     <task id="LOCAL-00001" summary="Original Commit">
       <created>1615514038995</created>
@@ -154,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624324765441</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Original Commit">
+      <created>1624437008739</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1624437008739</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
